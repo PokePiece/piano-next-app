@@ -6,6 +6,9 @@ function PageLayout({ children }) {
 
   return (
     <html lang="en">
+      <head>
+        <link rel="icon" href="/music-note.svg" />
+      </head>
       <body>
         <header>
           <h1>Piano: An Art Form</h1>
